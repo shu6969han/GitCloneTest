@@ -2,3 +2,5 @@
 1-bbbbbbbbbbbbbbbbbbbbbbbbbbb
 
 3---change b in github
+
+4-master reset to origin/master
