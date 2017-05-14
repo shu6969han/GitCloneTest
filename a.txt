@@ -6,3 +6,5 @@
 3---make conflc in github
 
 5---amend a to github
+
+6---test reset soft,mix,hard
